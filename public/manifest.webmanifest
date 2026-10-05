@@ -1,0 +1,9 @@
+{
+  "name": "Life OS",
+  "short_name": "Life OS",
+  "description": "A personal dashboard for daily rhythm, health, focus and finances.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
